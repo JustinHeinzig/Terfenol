@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/Tablet/Materials/Glass_Screen.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/Tablet/Materials/Metal_Base.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/Tablet/Blueprints/BP_Tablet.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/FirstPerson/Blueprints/BP_Pickup_Tablet.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/DJ/F81WUN26STTJCH842ZRMNI.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/Tablet/Mesh/Tablet.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/Tablet/UI/TabletUI.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/WorldAssetBlueprints/S-D-F_BP.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/Materials/S-D-F-DynamicMaterial.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/G5/PIEOVLWCGTESX0BCG0AFVZ.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/H2/3AJAH5OIV4CBORI8CUVQRU.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/A4/9CHH1Z89BFNUI1ASWW6M7H.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/OA/S7GFX2E140V1YB6SFV9I6A.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Game Development Projects/Terfenol/Assignment 2/Project/Assn2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
+			]
+		}
+	]
+}
