@@ -1,0 +1,1 @@
+I'm just going to upload the core .uasset and .umap files I made or editted heavily here. I'll also put the video. I'm tired of trying to play with GitHub and get it to work. It's giving me hell. I had it so much. 
