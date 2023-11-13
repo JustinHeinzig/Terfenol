@@ -1177,12 +1177,3 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.11.13-03.12.38:250][302]LogWorldPartition: Display: WorldPartition initialize took 1.76 sec (total: 3.39 sec)
 [2023.11.13-03.12.38:376][302]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
 [2023.11.13-03.12.38:384][302]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
-[2023.11.13-03.12.39:815][302]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 1.431100s
-[2023.11.13-03.12.39:818][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
-[2023.11.13-03.12.39:827][302]Cmd: MAP CHECKDEP NOCLEARLOG
-[2023.11.13-03.12.39:828][302]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.455ms to complete.
-[2023.11.13-03.12.39:840][302]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 3.461631s (1.461631s overbudget)
-[2023.11.13-03.12.40:296][303]LogAutomationController: Ignoring very large delta of 5.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
-[2023.11.13-03.12.42:339][305]LogAutomationController: Ignoring very large delta of 2.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
-[2023.11.13-03.12.43:033][307]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
-[2023.11.13-03.14.55:769][880]LogDerivedDataCache: C:/Users/justi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:38.572 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20131 files in 22560 folders with total size 4195 MiB.
