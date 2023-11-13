@@ -1644,3 +1644,13 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.11.13-03.19.15:414][349]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PrototypeMap.PrototypeMap
 [2023.11.13-03.19.16:036][350]LogAutomationController: Ignoring very large delta of 48.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.11.13-03.19.24:001][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.11.13-03.36.10:613][815]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.11.13-03.36.10:809][822]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.11.13-03.36.10:963][829]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.11.13-03.36.11:943][874]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.11.13-03.36.12:108][881]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.11.13-03.36.12:356][892]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.11.13-03.36.12:540][899]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.11.13-03.36.14:366][972]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.11.13-03.36.14:366][972]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.11.13-03.36.14:366][972]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
